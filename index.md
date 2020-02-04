@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![portrait](https://github.com/krosepulham/krosepulham.github.io/blob/master/newportrait.jpg)
+![portrait](/assets/newportrait.jpg)
 
 # Katherine R. Pulham
 
