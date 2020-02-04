@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "kate bio page"
 ---
 
 # Katherine R. Pulham
