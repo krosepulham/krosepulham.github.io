@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![portrait](/assets/newportrait.jpg)
+![portrait](/assets/newportrait.jpg )
+
+<img src="/assets/newportait.jpg" alt="drawing" width="200"/>
 
 # Katherine R. Pulham
 
